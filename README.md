@@ -10,4 +10,4 @@ git lfs clone https://github.com/Peter-MacCallum-Cancer-Centre/GTRC-Net-DEEP-PSM
 ```
 
 
-To run inference skip the numbered pre-processing and training scripts and adapt the inference function in GTR_Infer.py
+To run inference skip the numbered pre-processing and training scripts and adapt the inference function (<u>run_gtrc_infer</u>) in GTR_Infer.py

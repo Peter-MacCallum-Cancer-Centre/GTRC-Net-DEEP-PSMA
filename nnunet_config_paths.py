@@ -11,7 +11,7 @@ nn_preprocessed_dir=join('..','GTRC_baseline','data','nnUNet_data','preprocessed
 nn_results_dir=join(nnunet_data_folder,'results')
 os.makedirs(nnunet_data_folder,exist_ok=True)
 os.makedirs(nn_raw_dir,exist_ok=True)
-os.makedirs(nn_preprocessed_dir,exist_ok=True)
+#os.makedirs(nn_preprocessed_dir,exist_ok=True)
 os.makedirs(nn_results_dir,exist_ok=True)
 
 

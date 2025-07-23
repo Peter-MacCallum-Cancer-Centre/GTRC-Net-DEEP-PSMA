@@ -1,5 +1,5 @@
 # GTRC-Net-DEEP-PSMA
-Pretrained weights included for PSMA and FDG PET/CT Modalities based on the <b>DEEP-PSMA Grand Challenge</b> training set.
+Pretrained weights included for PSMA and FDG PET/CT Modalities based on the <b>[DEEP-PSMA Grand Challenge](https://deep-psma.grand-challenge.org/)</b> training set.
 
 Final weights included in manuscript based on ~400-650 cases per modality (PSMA PET, FDG PET, LuPSMA SPECT) to be available at end of challenge in September 2025
 
